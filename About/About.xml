@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Dubs Skylight</name>
+	<author>Dubwise</author>
+	<url></url>
+	<targetVersion>0.17.1526</targetVersion>
+	<description>Allows sunlight through a window in the roof.</description>
+</ModMetaData>
