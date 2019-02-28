@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <DesignationCategoryDef>
+    <defName>skylights</defName>
+    <label>Skylights</label>
+    <description>Skylights.</description>
+    <order>10</order>
+    <specialDesignatorClasses>
+      <li>Designator_Cancel</li>
+      <li>Designator_Deconstruct</li>
+      <li>Dubs_Skylight.Designator_RemoveSkylights</li>
+    </specialDesignatorClasses>
+  </DesignationCategoryDef>
+   
+</Defs>

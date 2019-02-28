@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <ModMetaData>
-	<name>Dubs Skylight</name>
+	<name>Dubs Skylights</name>
 	<author>Dubwise</author>
-	<url></url>
-	<targetVersion>0.17.1526</targetVersion>
-	<description>Allows sunlight through a window in the roof.</description>
+	<url>https://ludeon.com/forums/index.php?topic=29043.0</url>
+	<targetVersion>0.18.1722</targetVersion>
+	<description>Simple window for allowing sunlight to pass through constructed roofs. Powered by Harmony</description>
 </ModMetaData>
