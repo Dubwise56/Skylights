@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SkyLightA.label>채광창</SkyLightA.label>
+  <SkyLightA.description>옥상의 유리를 통해 햇빛을 받을수 있습니다.</SkyLightA.description>
+  <SkyLightA_Blueprint.label>채광창 (청사진)</SkyLightA_Blueprint.label>
+  <SkyLightA_Frame.label>채광창 (건설중)</SkyLightA_Frame.label>
+  <SkyLightA_Frame.description>옥상의 유리를 통해 햇빛을 받을수 있습니다.</SkyLightA_Frame.description>
+
+  <SkyLightD.label>채광창 2x2</SkyLightD.label>
+  <SkyLightD.description>옥상의 유리를 통해 햇빛을 받을수 있습니다.</SkyLightD.description>
+  <SkyLightD_Blueprint.label>채광창 2x2 (청사진)</SkyLightD_Blueprint.label>
+  <SkyLightD_Frame.label>채광창 2x2 (건설중)</SkyLightD_Frame.label>
+  <SkyLightD_Frame.description>옥상의 유리를 통해 햇빛을 받을수 있습니다.</SkyLightD_Frame.description>
+
+  <SkyLightB.label>채광창 3x3</SkyLightB.label>
+  <SkyLightB.description>옥상의 유리를 통해 햇빛을 받을수 있습니다.</SkyLightB.description>
+  <SkyLightB_Blueprint.label>채광창 3x3 (청사진)</SkyLightB_Blueprint.label>
+  <SkyLightB_Frame.label>채광창 3x3 (건설중)</SkyLightB_Frame.label>
+  <SkyLightB_Frame.description>옥상의 유리를 통해 햇빛을 받을수 있습니다.</SkyLightB_Frame.description>
+
+  <SkyLightC.label>채광창 1x4</SkyLightC.label>
+  <SkyLightC.description>옥상의 유리를 통해 햇빛을 받을수 있습니다.</SkyLightC.description>
+  <SkyLightC_Blueprint.label>채광창 1x4 (청사진)</SkyLightC_Blueprint.label>
+  <SkyLightC_Frame.label>채광창 1x4 (건설중)</SkyLightC_Frame.label>
+  <SkyLightC_Frame.description>옥상의 유리를 통해 햇빛을 받을수 있습니다.</SkyLightC_Frame.description>
+
+
+</LanguageData>

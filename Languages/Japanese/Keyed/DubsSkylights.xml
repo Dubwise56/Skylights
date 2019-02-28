@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RemoveSkylights>天窓を削除</RemoveSkylights>
+  <DeconstructLights>解体する天窓を指定</DeconstructLights>
+  <MustBeSkylight>天窓ではない</MustBeSkylight>
+  <NotWithinRoomBounds>部屋の枠内ではありません</NotWithinRoomBounds>
+  <hideWindows>窓を隠す</hideWindows>
+  <hideWindowsTip>天窓を隠す</hideWindowsTip>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RemoveSkylights>Remove Skylights</RemoveSkylights>
+  <DeconstructLights>Designate Skylights for deconstruction</DeconstructLights>
+  <MustBeSkylight>Must Be Skylight</MustBeSkylight>
+  <NotWithinRoomBounds>Not Within Room Bounds</NotWithinRoomBounds>
+  <hideWindows>Hide Windows</hideWindows>
+  <hideWindowsTip>Hide skylights</hideWindowsTip>
+  
+</LanguageData>

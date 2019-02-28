@@ -5,9 +5,8 @@
     <label>SkyLight</label>
     <description>Lets in daylight through a window in the roof.</description>
     <thingClass>Dubs_Skylight.Building_skyLight</thingClass>
-    <blueprintGraphicData>
-      <texPath>UI/skylight_blueprint</texPath>
-    </blueprintGraphicData>
+<blockLight>false</blockLight>
+    <holdsRoof>false</holdsRoof>
     <graphicData>
       <texPath>Things/Building/skylight</texPath>
       <graphicClass>Graphic_Single</graphicClass>
@@ -15,11 +14,11 @@
       <drawSize>(1.0,1.0)</drawSize>
     </graphicData>
     <category>Building</category>
-    <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
     <drawerType>MapMeshAndRealTime</drawerType>
     <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
     <repairEffect>Repair</repairEffect>
-    <filthLeaving>BuildingRubble</filthLeaving>
+    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
     <tickerType>Never</tickerType>
     <fillPercent>0</fillPercent>
     <altitudeLayer>Weather</altitudeLayer>
@@ -37,6 +36,9 @@
       <li>Dubs_Skylight.PlaceWorker_Skylight</li>
     </placeWorkers>
     <building>
+          <blueprintGraphicData>
+      <texPath>Things/Building/skylightBP</texPath>
+    </blueprintGraphicData>
       <isInert>true</isInert>
       <isEdifice>false</isEdifice>
       <canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>

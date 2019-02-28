@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SkyLightA.label>天窗</SkyLightA.label>
+  <SkyLightA.description>让暖暖的阳光从屋顶的天窗照进来吧~</SkyLightA.description>
+  <SkyLightA_Blueprint.label>天窗 (蓝图)</SkyLightA_Blueprint.label>
+  <SkyLightA_Frame.label>天窗 (建造中)</SkyLightA_Frame.label>
+  <SkyLightA_Frame.description>让暖暖的阳光从屋顶的天窗照进来吧~</SkyLightA_Frame.description>
+
+  <SkyLightD.label>天窗 2x2</SkyLightD.label>
+  <SkyLightD.description>让暖暖的阳光从屋顶的天窗照进来吧~</SkyLightD.description>
+  <SkyLightD_Blueprint.label>天窗 2x2 (蓝图)</SkyLightD_Blueprint.label>
+  <SkyLightD_Frame.label>天窗 2x2 (建造中)</SkyLightD_Frame.label>
+  <SkyLightD_Frame.description>让暖暖的阳光从屋顶的天窗照进来吧~</SkyLightD_Frame.description>
+
+  <SkyLightB.label>天窗 3x3</SkyLightB.label>
+  <SkyLightB.description>让暖暖的阳光从屋顶的天窗照进来吧~</SkyLightB.description>
+  <SkyLightB_Blueprint.label>天窗 3x3 (蓝图)</SkyLightB_Blueprint.label>
+  <SkyLightB_Frame.label>天窗 3x3 (建造中)</SkyLightB_Frame.label>
+  <SkyLightB_Frame.description>让暖暖的阳光从屋顶的天窗照进来吧~</SkyLightB_Frame.description>
+
+  <SkyLightC.label>天窗 1x4</SkyLightC.label>
+  <SkyLightC.description>让暖暖的阳光从屋顶的天窗照进来吧~</SkyLightC.description>
+  <SkyLightC_Blueprint.label>天窗 1x4 (蓝图)</SkyLightC_Blueprint.label>
+  <SkyLightC_Frame.label>天窗 1x4 (建造中)</SkyLightC_Frame.label>
+  <SkyLightC_Frame.description>让暖暖的阳光从屋顶的天窗照进来吧~</SkyLightC_Frame.description>
+
+
+</LanguageData>

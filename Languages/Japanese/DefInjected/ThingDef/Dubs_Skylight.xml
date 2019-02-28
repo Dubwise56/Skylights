@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SkyLightA.label>天窓</SkyLightA.label>
+  <SkyLightA.description>天井に取り付けた窓から日光を通します。</SkyLightA.description>
+  <Blueprint_SkyLightA.label>天窓(設計)</Blueprint_SkyLightA.label>
+  <Frame_SkyLightA.label>天窓(施工)</Frame_SkyLightA.label>
+  <Frame_SkyLightA.description>天井に取り付けた窓から日光を通します。</Frame_SkyLightA.description>
+
+  <SkyLightD.label>天窓：2x2</SkyLightD.label>
+  <SkyLightD.description>天井に取り付けた窓から日光を通します。</SkyLightD.description>
+  <Blueprint_SkyLightD.label>天窓：2x2(設計)</Blueprint_SkyLightD.label>
+  <Frame_SkyLightD.label>天窓：2x2(施工)</Frame_SkyLightD.label>
+  <Frame_SkyLightD.description>天井に取り付けた窓から日光を通します。</Frame_SkyLightD.description>
+
+  <SkyLightB.label>天窓：3x3</SkyLightB.label>
+  <SkyLightB.description>天井に取り付けた窓から日光を通します。</SkyLightB.description>
+  <Blueprint_SkyLightB.label>天窓：3x3(設計)</Blueprint_SkyLightB.label>
+  <Frame_SkyLightB.label>天窓：3x3(施工)</Frame_SkyLightB.label>
+  <Frame_SkyLightB.description>天井に取り付けた窓から日光を通します。</Frame_SkyLightB.description>
+
+  <SkyLightC.label>天窓：1x4</SkyLightC.label>
+  <SkyLightC.description>天井に取り付けた窓から日光を通します。</SkyLightC.description>
+  <Blueprint_SkyLightC.label>天窓：1x4(設計)</Blueprint_SkyLightC.label>
+  <Frame_SkyLightC.label>天窓：1x4(施工)</Frame_SkyLightC.label>
+  <Frame_SkyLightC.description>天井に取り付けた窓から日光を通します。</Frame_SkyLightC.description>
+
+
+</LanguageData>

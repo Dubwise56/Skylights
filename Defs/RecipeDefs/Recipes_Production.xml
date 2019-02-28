@@ -35,6 +35,7 @@
     <recipeUsers>
       <li>ElectricSmelter</li>
       <li>FueledSmithy</li>
+      <li>ElectricSmithy</li>
     </recipeUsers>
   </RecipeDef>
 

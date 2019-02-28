@@ -6,8 +6,9 @@
     <label>Glass Pane</label>
     <description>A pane of framed glass used for making skylights.</description>
     <graphicData>
-      <texPath>Things/Building/skylight</texPath>
+      <texPath>Things/GlassPane</texPath>
       <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>Transparent</shaderType>
     </graphicData>
     <soundInteract>Metal_Drop</soundInteract>
     <soundDrop>Standard_Drop</soundDrop>

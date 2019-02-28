@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RemoveSkylights>删除天窗</RemoveSkylights>
+  <DeconstructLights>指定拆除天窗</DeconstructLights>
+  <MustBeSkylight>必须是天窗</MustBeSkylight>
+  <NotWithinRoomBounds>不是在房间范围内</NotWithinRoomBounds>
+  <hideWindows>隐藏窗口</hideWindows>
+  <hideWindowsTip>隐藏天窗</hideWindowsTip>
+
+</LanguageData>
