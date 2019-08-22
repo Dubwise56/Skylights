@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SkyLightA.label>puits de lumière</SkyLightA.label>
+  <SkyLightA.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightA.description>
+  
+  <SkyLightD.label>Puits de lumière 2x2</SkyLightD.label>
+  <SkyLightD.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightD.description>
+
+  <SkyLightB.label>Puits de lumière 3x3</SkyLightB.label>
+  <SkyLightB.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightB.description>
+
+  <SkyLightC.label>Puits de lumière 1x4</SkyLightC.label>
+  <SkyLightC.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightC.description>
+
+</LanguageData>

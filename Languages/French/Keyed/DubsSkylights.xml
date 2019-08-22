@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RemoveSkylights>Supprimer les puits de lumière</RemoveSkylights>
+  <DeconstructLights>Désigner des puits de lumière pour la déconstruction</DeconstructLights>
+  <MustBeSkylight>Foit être un puit de lumière</MustBeSkylight>
+  <NotWithinRoomBounds>Pas dans les limites de la chambre</NotWithinRoomBounds>
+  <hideWindows>Masquer Windows</hideWindows>
+  <hideWindowsTip>Masquer les puits de lumière</hideWindowsTip>
+  
+</LanguageData>
