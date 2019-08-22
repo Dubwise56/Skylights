@@ -17,3 +17,4 @@ https://ludeon.com/forums/index.php?topic=29043.0
 Support links!
 
 https://ko-fi.com/T6T6MYO0
+patreon.com/dubwise56
