@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+<NotUnderConstructedRoof>Must be placed on constructed roof</NotUnderConstructedRoof>
   <RemoveSkylights>Remove Skylights</RemoveSkylights>
   <DeconstructLights>Designate Skylights for deconstruction</DeconstructLights>
   <MustBeSkylight>Must Be Skylight</MustBeSkylight>
