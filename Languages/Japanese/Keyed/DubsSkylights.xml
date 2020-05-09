@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <NotUnderConstructedRoof>建築した屋根に配置する必要があります</NotUnderConstructedRoof>
   <RemoveSkylights>天窓を削除</RemoveSkylights>
   <DeconstructLights>解体する天窓を指定</DeconstructLights>
   <MustBeSkylight>天窓ではない</MustBeSkylight>
   <NotWithinRoomBounds>部屋の枠内ではありません</NotWithinRoomBounds>
   <hideWindows>窓を隠す</hideWindows>
   <hideWindowsTip>天窓を隠す</hideWindowsTip>
+  <SunlightHeatsRoom>太陽光温室</SunlightHeatsRoom>
+  <SunlightHeatsRoomTip>太陽光が入る事で天窓から熱が出ます</SunlightHeatsRoomTip>
 
 </LanguageData>
