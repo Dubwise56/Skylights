@@ -120,7 +120,7 @@
     </graphicData>
     <size>(2,2)</size>
     <costList>
-      <GlassPane>4</GlassPane>
+      <GlassPane>2</GlassPane>
     </costList>
   </ThingDef>
 
@@ -133,7 +133,7 @@
     </graphicData>
     <size>(3,3)</size>
     <costList>
-      <GlassPane>8</GlassPane>
+      <GlassPane>3</GlassPane>
     </costList>
   </ThingDef>
 
@@ -147,7 +147,7 @@
     <size>(1,4)</size>
     <rotatable>true</rotatable>
     <costList>
-      <GlassPane>4</GlassPane>
+      <GlassPane>2</GlassPane>
     </costList>
   </ThingDef>
 
