@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SkyLightA.label>стеклянная крыша</SkyLightA.label>
+  <SkyLightA.description>Пропускает дневной свет через окно в крыше.</SkyLightA.description>
+
+  <SkyLightD.label>стеклянная крыша (2x2)</SkyLightD.label>
+  <SkyLightD.description>Пропускает дневной свет через окно в крыше.</SkyLightD.description>
+
+  <SkyLightB.label>стеклянная крыша (3x3)</SkyLightB.label>
+  <SkyLightB.description>Пропускает дневной свет через окно в крыше.</SkyLightB.description>
+
+  <SkyLightC.label>стеклянная крыша (1x4)</SkyLightC.label>
+  <SkyLightC.description>Пропускает дневной свет через окно в крыше.</SkyLightC.description>
+
+</LanguageData>

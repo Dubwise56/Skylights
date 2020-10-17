@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NotUnderConstructedRoof>Должна быть размещена на построенной крыше</NotUnderConstructedRoof>
+  <RemoveSkylights>Удалить стеклянную крышу</RemoveSkylights>
+  <DeconstructLights>Обозначить стеклянную крышу для демонтажа</DeconstructLights>
+  <MustBeSkylight>Должна быть стеклянная крыша</MustBeSkylight>
+  <NotWithinRoomBounds>Не в пределах комнаты</NotWithinRoomBounds>
+  <hideWindows>Скрыть окна</hideWindows>
+  <hideWindowsTip>Спрятать стеклянную крышу, не забывайте, что она там есть!</hideWindowsTip>
+  <SunlightHeatsRoom>Солнечный свет обогревает комнаты</SunlightHeatsRoom>
+  <SunlightHeatsRoomTip>Стеклянные крыши будут создавать тепло, когда светит солнце.</SunlightHeatsRoomTip>
+
+</LanguageData>
