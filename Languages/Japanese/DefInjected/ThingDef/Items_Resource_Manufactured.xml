@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <GlassPane.label>窓ガラス</GlassPane.label>
   <GlassPane.description>天窓を作るために使用される枠にはめられた窓ガラスです。</GlassPane.description>
-
 
 </LanguageData>
