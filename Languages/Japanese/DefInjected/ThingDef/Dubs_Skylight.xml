@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SkyLightA.label>天窓</SkyLightA.label>
@@ -24,6 +24,5 @@
   <Blueprint_SkyLightC.label>天窓：1x4(設計)</Blueprint_SkyLightC.label>
   <Frame_SkyLightC.label>天窓：1x4(施工)</Frame_SkyLightC.label>
   <Frame_SkyLightC.description>天井に取り付けた窓から日光を通します。</Frame_SkyLightC.description>
-
 
 </LanguageData>

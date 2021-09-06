@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <SmeltGlass.label>窓ガラスを作る</SmeltGlass.label>
   <SmeltGlass.description>窓ガラスを作る。</SmeltGlass.description>
   <SmeltGlass.jobString>窓ガラスを製作中</SmeltGlass.jobString>
 
+  <SmeltGlass4x.label>窓ガラス x4</SmeltGlass4x.label>
+  <SmeltGlass4x.description>窓ガラスを4つ作る。</SmeltGlass4x.description>
+  <SmeltGlass4x.jobString>窓ガラスを製作中</SmeltGlass4x.jobString>
 
 </LanguageData>
