@@ -5,5 +5,8 @@
   <SmeltGlass.description>Faire des fenêtres en verre.</SmeltGlass.description>
   <SmeltGlass.jobString>Fond du verre.</SmeltGlass.jobString>
 
+  <SmeltGlass4x.label>verre fondu x4</SmeltGlass4x.label>
+  <SmeltGlass4x.description>Faire des fenêtres en verre.</SmeltGlass4x.description>
+  <SmeltGlass4x.jobString>Fond du verre.</SmeltGlass4x.jobString>
 
 </LanguageData>

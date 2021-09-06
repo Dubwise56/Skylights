@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+<NotUnderConstructedRoof>Doit être placé sur un toit construit</NotUnderConstructedRoof>
   <RemoveSkylights>Supprimer les puits de lumière</RemoveSkylights>
   <DeconstructLights>Désigner des puits de lumière pour la déconstruction</DeconstructLights>
   <MustBeSkylight>Foit être un puit de lumière</MustBeSkylight>
   <NotWithinRoomBounds>Pas dans les limites de la chambre</NotWithinRoomBounds>
-  <hideWindows>Masquer Windows</hideWindows>
-  <hideWindowsTip>Masquer les puits de lumière</hideWindowsTip>
-  
+  <hideWindows>Masquer les fenêtres</hideWindows>
+  <hideWindowsTip>Masquer les puits de lumière, n'oubliez pas qu'ils sont là !</hideWindowsTip>
+  <SunlightHeatsRoom>La lumière du soleil chauffe les pièces</SunlightHeatsRoom>
+  <SunlightHeatsRoomTip>Les puits de lumière émettent de la chaleur lorsque le soleil brille</SunlightHeatsRoomTip> 
 </LanguageData>

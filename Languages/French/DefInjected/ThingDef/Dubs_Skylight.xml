@@ -2,15 +2,28 @@
 <LanguageData>
 
   <SkyLightA.label>puits de lumière</SkyLightA.label>
-  <SkyLightA.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightA.description>
-  
+  <SkyLightA.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit.</SkyLightA.description>
+  <SkyLightA_Blueprint.label>puits de lumière (plan)</SkyLightA_Blueprint.label>
+  <SkyLightA_Frame.label>puits de lumière (bâtiment)</SkyLightA_Frame.label>
+  <SkyLightA_Frame.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit.</SkyLightA_Frame.description>  
+
+
   <SkyLightD.label>Puits de lumière 2x2</SkyLightD.label>
-  <SkyLightD.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightD.description>
+  <SkyLightD.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit.</SkyLightD.description>
+  <SkyLightD_Blueprint.label>puits de lumière 2x2 (plan)</SkyLightD_Blueprint.label>
+  <SkyLightD_Frame.label>puits de lumière 2x2 (bâtiment)</SkyLightD_Frame.label>
+  <SkyLightD_Frame.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit.</SkyLightD_Frame.description>
 
   <SkyLightB.label>Puits de lumière 3x3</SkyLightB.label>
-  <SkyLightB.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightB.description>
+  <SkyLightB.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit.</SkyLightB.description>
+  <SkyLightB_Blueprint.label>puits de lumière 3x3 (plan)</SkyLightB_Blueprint.label>
+  <SkyLightB_Frame.label>puits de lumière 3x3 (bâtiment)</SkyLightB_Frame.label>
+  <SkyLightB_Frame.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit.</SkyLightB_Frame.description>
 
   <SkyLightC.label>Puits de lumière 1x4</SkyLightC.label>
-  <SkyLightC.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightC.description>
+  <SkyLightC.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit.</SkyLightC.description>
+  <SkyLightC_Blueprint.label>puits de lumière 1x4 (plan)</SkyLightC_Blueprint.label>
+  <SkyLightC_Frame.label>puits de lumière 1x4 (bâtiment)</SkyLightC_Frame.label>
+  <SkyLightC_Frame.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit.</SkyLightC_Frame.description>
 
 </LanguageData>
