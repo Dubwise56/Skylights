@@ -3,7 +3,7 @@
 <NotUnderConstructedRoof>Doit être placé sur un toit construit</NotUnderConstructedRoof>
   <RemoveSkylights>Supprimer les puits de lumière</RemoveSkylights>
   <DeconstructLights>Désigner des puits de lumière pour la déconstruction</DeconstructLights>
-  <MustBeSkylight>Foit être un puit de lumière</MustBeSkylight>
+  <MustBeSkylight>Doit être un puit de lumière</MustBeSkylight>
   <NotWithinRoomBounds>Pas dans les limites de la chambre</NotWithinRoomBounds>
   <hideWindows>Masquer les fenêtres</hideWindows>
   <hideWindowsTip>Masquer les puits de lumière, n'oubliez pas qu'ils sont là !</hideWindowsTip>
