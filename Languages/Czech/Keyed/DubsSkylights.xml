@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<NotUnderConstructedRoof>Musí být umístěno na postavené střeše.</NotUnderConstructedRoof>
+  <RemoveSkylights>Odstranit vikýř.</RemoveSkylights>
+  <DeconstructLights>Označí vikýře pro demontáž</DeconstructLights>
+  <MustBeSkylight>Musí být vikýř</MustBeSkylight>
+  <NotWithinRoomBounds>Mimo hranice místnosti</NotWithinRoomBounds>
+  <hideWindows>Schovat okna</hideWindows>
+  <hideWindowsTip>Schová zobrazení vikýřů, tak nezapomínej, kde je máš!</hideWindowsTip>
+  <SunlightHeatsRoom>Ohřev místností pomocí slunce</SunlightHeatsRoom>
+  <SunlightHeatsRoomTip>Vikýře vydávají teplo, pokud svítí slunce</SunlightHeatsRoomTip>
+</LanguageData>

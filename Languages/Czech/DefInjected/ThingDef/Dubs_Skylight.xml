@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SkyLightD.label>Vikýř 2x2</SkyLightD.label>
+
+	<SkyLightD.description>Střešní vikýř propouštějící do místnosti sluneční světlo.</SkyLightD.description>
+
+	<SkyLightB.label>Vikýř 3x3</SkyLightB.label>
+
+	<SkyLightB.description>Střešní vikýř propouštějící do místnosti sluneční světlo..</SkyLightB.description>
+
+	<SkyLightC.label>Vikýř 1x4</SkyLightC.label>
+
+	<SkyLightC.description>Střešní vikýř propouštějící do místnosti sluneční světlo.</SkyLightC.description>
+
+	<SkyLightA.description>Střešní vikýř propouštějící do místnosti sluneční světlo.</SkyLightA.description>
+
+</LanguageData>

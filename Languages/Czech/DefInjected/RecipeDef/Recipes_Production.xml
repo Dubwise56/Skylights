@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SmeltGlass.label>Vyrobit sklo</SmeltGlass.label>
+
+	<SmeltGlass.description>Vyrobí čtvercové skleněné tabule pro výrobu oken.</SmeltGlass.description>
+
+	<SmeltGlass.jobstring>Vyrábí sklo.</SmeltGlass.jobstring>
+
+</LanguageData>
