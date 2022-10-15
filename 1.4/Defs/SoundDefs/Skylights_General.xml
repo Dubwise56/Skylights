@@ -9,7 +9,7 @@
       <li>
         <grains>
           <li Class="AudioGrain_Folder">
-            <clipFolderPath>Misc/glass</clipFolderPath>
+            <clipFolderPath>SkylightsMisc</clipFolderPath>
           </li>
         </grains>
         <volumeRange>
