@@ -68,7 +68,7 @@
 		<category>Building</category>
 		<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
 		<drawerType>MapMeshAndRealTime</drawerType>
-		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<terrainAffordanceNeeded IsNull="True" />
 		<repairEffect>Repair</repairEffect>
 		<filthLeaving>Filth_RubbleBuilding</filthLeaving>
 		<tickerType>Rare</tickerType>
