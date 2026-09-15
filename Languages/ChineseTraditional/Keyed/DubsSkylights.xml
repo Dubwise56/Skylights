@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<NotUnderConstructedRoof>必須放置在已建造的屋頂上</NotUnderConstructedRoof>
+  <RemoveSkylights>移除天窗</RemoveSkylights>
+  <DeconstructLights>指定拆除天窗</DeconstructLights>
+  <MustBeSkylight>必須是天窗</MustBeSkylight>
+  <NotWithinRoomBounds>不在房間範圍內</NotWithinRoomBounds>
+  <hideWindows>隱藏窗框</hideWindows>
+  <hideWindowsTip>隱藏天窗的框架，別忘了它們還在那裡！</hideWindowsTip>
+  <SunlightHeatsRoom>陽光加熱房間</SunlightHeatsRoom>
+  <SunlightHeatsRoomTip>陽光照射時，天窗會散發熱量</SunlightHeatsRoomTip>
+</LanguageData>

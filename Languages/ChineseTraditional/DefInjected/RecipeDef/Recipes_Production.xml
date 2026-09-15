@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmeltGlass.label>熔煉玻璃</SmeltGlass.label>
+  <SmeltGlass.description>熔煉出玻璃來製作天窗。</SmeltGlass.description>
+  <SmeltGlass.jobString>正在熔煉玻璃。</SmeltGlass.jobString>
+
+
+</LanguageData>
