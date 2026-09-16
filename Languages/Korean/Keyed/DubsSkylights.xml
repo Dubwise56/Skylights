@@ -8,4 +8,7 @@
   <hideWindows>채광창 숨기기</hideWindows>
   <hideWindowsTip>채광창을 숨깁니다.</hideWindowsTip>
 
+  <NotUnderConstructedRoof>건설된 지붕 위에 설치해야 합니다</NotUnderConstructedRoof>
+  <SunlightHeatsRoom>햇빛이 방을 데움</SunlightHeatsRoom>
+  <SunlightHeatsRoomTip>해가 비칠 때 채광창이 열을 방출합니다</SunlightHeatsRoomTip>
 </LanguageData>

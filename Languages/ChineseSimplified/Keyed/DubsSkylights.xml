@@ -8,4 +8,7 @@
   <hideWindows>隐藏窗口</hideWindows>
   <hideWindowsTip>隐藏天窗</hideWindowsTip>
 
+  <NotUnderConstructedRoof>必须放置在已建造的屋顶上</NotUnderConstructedRoof>
+  <SunlightHeatsRoom>阳光加热房间</SunlightHeatsRoom>
+  <SunlightHeatsRoomTip>阳光照射时，天窗会散发热量</SunlightHeatsRoomTip>
 </LanguageData>

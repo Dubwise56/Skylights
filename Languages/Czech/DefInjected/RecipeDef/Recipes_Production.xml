@@ -5,6 +5,9 @@
 
 	<SmeltGlass.description>Vyrobí čtvercové skleněné tabule pro výrobu oken.</SmeltGlass.description>
 
-	<SmeltGlass.jobstring>Vyrábí sklo.</SmeltGlass.jobstring>
+	<SmeltGlass.jobString>Vyrábí sklo.</SmeltGlass.jobString>
 
+	<SmeltGlass4x.label>Vyrobit sklo x4</SmeltGlass4x.label>
+	<SmeltGlass4x.description>Vyrobí čtvercové skleněné tabule pro výrobu oken.</SmeltGlass4x.description>
+	<SmeltGlass4x.jobString>Vyrábí sklo.</SmeltGlass4x.jobString>
 </LanguageData>

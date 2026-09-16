@@ -6,4 +6,7 @@
   <SmeltGlass.jobString>유리 제작중</SmeltGlass.jobString>
 
 
+  <SmeltGlass4x.label>유리 제작 x4</SmeltGlass4x.label>
+  <SmeltGlass4x.description>프레임 유리창을 만듭니다.</SmeltGlass4x.description>
+  <SmeltGlass4x.jobString>유리 제작중</SmeltGlass4x.jobString>
 </LanguageData>

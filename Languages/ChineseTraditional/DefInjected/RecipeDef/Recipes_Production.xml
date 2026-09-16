@@ -6,4 +6,7 @@
   <SmeltGlass.jobString>正在熔煉玻璃。</SmeltGlass.jobString>
 
 
+  <SmeltGlass4x.label>熔煉玻璃 x4</SmeltGlass4x.label>
+  <SmeltGlass4x.description>熔煉出玻璃來製作天窗。</SmeltGlass4x.description>
+  <SmeltGlass4x.jobString>正在熔煉玻璃。</SmeltGlass4x.jobString>
 </LanguageData>

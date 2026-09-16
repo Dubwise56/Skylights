@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<SkygazeIndoors.reportstring>Dívá se na mraky.</SkygazeIndoors.reportstring>
+	<SkygazeIndoors.reportString>Dívá se na mraky.</SkygazeIndoors.reportString>
 
-	<GoForWalkIndoors.reportstring>Prochází se</GoForWalkIndoors.reportstring>
+	<GoForWalkIndoors.reportString>Prochází se.</GoForWalkIndoors.reportString>
 
 </LanguageData>

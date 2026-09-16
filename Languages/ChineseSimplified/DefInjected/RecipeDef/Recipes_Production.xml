@@ -3,7 +3,10 @@
 
   <SmeltGlass.label>熔炼玻璃</SmeltGlass.label>
   <SmeltGlass.description>熔炼出玻璃来造天窗.</SmeltGlass.description>
-  <SmeltGlass.jobString>熔炼玻璃ing.</SmeltGlass.jobString>
+  <SmeltGlass.jobString>正在熔炼玻璃。</SmeltGlass.jobString>
 
 
+  <SmeltGlass4x.label>熔炼玻璃 x4</SmeltGlass4x.label>
+  <SmeltGlass4x.description>熔炼出玻璃来造天窗.</SmeltGlass4x.description>
+  <SmeltGlass4x.jobString>正在熔炼玻璃。</SmeltGlass4x.jobString>
 </LanguageData>

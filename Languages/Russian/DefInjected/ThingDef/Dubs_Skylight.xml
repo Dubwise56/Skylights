@@ -13,4 +13,16 @@
   <SkyLightC.label>стеклянная крыша (1x4)</SkyLightC.label>
   <SkyLightC.description>Пропускает дневной свет через окно в крыше.</SkyLightC.description>
 
+  <SkyLightA_Blueprint.label>стеклянная крыша (проект)</SkyLightA_Blueprint.label>
+  <SkyLightA_Frame.label>стеклянная крыша (в процессе сборки)</SkyLightA_Frame.label>
+  <SkyLightA_Frame.description>Пропускает дневной свет через окно в крыше.</SkyLightA_Frame.description>
+  <SkyLightD_Blueprint.label>стеклянная крыша (2x2) (проект)</SkyLightD_Blueprint.label>
+  <SkyLightD_Frame.label>стеклянная крыша (2x2) (в процессе сборки)</SkyLightD_Frame.label>
+  <SkyLightD_Frame.description>Пропускает дневной свет через окно в крыше.</SkyLightD_Frame.description>
+  <SkyLightB_Blueprint.label>стеклянная крыша (3x3) (проект)</SkyLightB_Blueprint.label>
+  <SkyLightB_Frame.label>стеклянная крыша (3x3) (в процессе сборки)</SkyLightB_Frame.label>
+  <SkyLightB_Frame.description>Пропускает дневной свет через окно в крыше.</SkyLightB_Frame.description>
+  <SkyLightC_Blueprint.label>стеклянная крыша (1x4) (проект)</SkyLightC_Blueprint.label>
+  <SkyLightC_Frame.label>стеклянная крыша (1x4) (в процессе сборки)</SkyLightC_Frame.label>
+  <SkyLightC_Frame.description>Пропускает дневной свет через окно в крыше.</SkyLightC_Frame.description>
 </LanguageData>

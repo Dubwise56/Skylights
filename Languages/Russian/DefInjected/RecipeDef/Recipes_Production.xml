@@ -5,4 +5,7 @@
   <SmeltGlass.description>Выплавить стекло.</SmeltGlass.description>
   <SmeltGlass.jobString>выплавляет стекло</SmeltGlass.jobString>
 
+  <SmeltGlass4x.label>выплавить стекло x4</SmeltGlass4x.label>
+  <SmeltGlass4x.description>Выплавить стекло.</SmeltGlass4x.description>
+  <SmeltGlass4x.jobString>выплавляет стекло</SmeltGlass4x.jobString>
 </LanguageData>
