@@ -1,20 +1,27 @@
+# Dubs Skylights
+
+By Dubwise
+
 Simple skylight you can install into roofs to let in sunlight.
-
-Build Indoor gardens where colonists can do outdoors activities by making a 100 cell room with skylights and beautiful plants.
-
-Grow tree's indoors under skylights
 
 Works with saves
 
-Craft windows at electric or fueled smithy, or the electric smelter.
+## Skylights
 
-Where does the sand for the glass come from? same place it does for sandbag walls!
+- Install skylights into constructed roofs to let sunlight through.
+- Grow trees indoors under skylights.
+- Build indoor gardens where colonists can do outdoor activities by making a 100 cell room with skylights and beautiful plants.
+- Craft windows at the electric or fueled smithy, or the electric smelter.
+- Where does the sand for the glass come from? Same place it does for sandbag walls!
 
-My Mod Discord : https://discord.gg/bajcjsu]Discord
+## Bug Reports / Issue Tracker
 
-https://ludeon.com/forums/index.php?topic=29043.0
+https://github.com/Dubwise56/Skylights/issues
 
-Support links!
+[Github Releases](https://github.com/Dubwise56/Skylights/releases)
 
-https://ko-fi.com/T6T6MYO0
-patreon.com/dubwise56
+Discord for my mods: [Discord](https://discord.gg/bajcjsu)
+
+[Support me on Ko-fi](https://ko-fi.com/T6T6MYO0)
+
+[Support me on Patreon](https://patreon.com/dubwise56)
